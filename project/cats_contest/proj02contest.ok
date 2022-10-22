@@ -1,0 +1,17 @@
+{
+    "name": "Cats Contest",
+    "endpoint": "cal/cs61a/fa21/proj02contest",
+    "src": [
+        "autocorrect.py",
+        "biases.py"
+    ],
+    "tests": {
+        "tests/*.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "analytics",
+        "grading",
+        "backup"
+    ]
+}

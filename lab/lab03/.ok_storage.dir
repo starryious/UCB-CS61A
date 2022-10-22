@@ -1,0 +1,5 @@
+'unique_digits-correct', (0, 66)
+'ordered_digits-correct', (512, 66)
+'get_k_run_starter-correct', (1024, 66)
+'make_repeater-correct', (1536, 66)
+'apply_twice-correct', (2048, 66)

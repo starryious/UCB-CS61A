@@ -1,0 +1,17 @@
+{
+    "name": "Hog Dice Showcase",
+    "endpoint": "cal/cs61a/fa21/proj01showcase",
+    "src": [
+        "design.py"
+    ],
+    "tests": {
+        "tests/validate.py": "ok_test",
+        "tests/submit.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "analytics",
+        "grading",
+        "backup"
+    ]
+}
